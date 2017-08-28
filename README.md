@@ -5,6 +5,7 @@ Estimating a Gaussian model for ball color and developing a ball detection funct
 
 ## 2. Kalman Filter and Target Tracking
 Implementing a Kalman filter for ball tracking in 2D space. Imagine a soccer robot wants to predict the ball’s location constantly for planning its next motion. The figure below depicts an example of ball location measurements, location estimates, and a predicted location at certain time.
+
 ![Ball-Location](/images/Ball-Location.jpg)
 
 ## 3. SLAM - Occupancy Grid Mapping
