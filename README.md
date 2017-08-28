@@ -9,8 +9,10 @@ Implementing a Kalman filter for ball tracking in 2D space. Imagine a soccer rob
 
 ## 3. SLAM - Occupancy Grid Mapping
 Implementing the Occupancy Grid Mapping algorithm for a 2D floor map by incorporating range sensor readings and known poses at each of the measurement times in order to build a map. The figure below depicts an example of range measurements (green dots) from a mobile robot (red dot with an indicated heading) and an intermediate occupancy grid map.
+
 ![OGM](/images/OGM.jpg)
 
 ## 4. SLAM - Particle Filter for Pose Tracking
 Implementing a particle filter for pose tracking in 2D space. Imagine a robot wants to understand its position in order to determine where to next explore. The figure below depicts an example of robot localization from LIDAR measurements projected onto a map.
+
 ![PF](/images/PF.jpg)
